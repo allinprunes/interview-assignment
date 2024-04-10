@@ -1,5 +1,9 @@
 # interview-assignment
 
+# Dependencies
+
+NodeJS
+
 # Installation
 
 npm install
